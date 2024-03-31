@@ -5,7 +5,7 @@
 
 - 🌱 I’m a **Last Year Computer Engineering Student**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratikbagade1](https://github.com/pratikbagade1)
+- 👨‍💻 All of my projects are available at[https://github.com/pratikbagade1](https://pratikbagade1.github.io/Portfolio/#projects)
 
 - 💬 Ask me about **Java and React**
 
