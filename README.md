@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovedayikegbulam&show_icons=true&locale=en" alt="lovedayikegbulam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovedayikegbulam&" alt="lovedayikegbulam" /></p>
+<p><img align="center" src="https://www.hackerrank.com/profile/pratikbagade13" alt="lovedayikegbulam" /></p>
 
 <!--
 **PRATIKBAGADE1/pratikbagade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
