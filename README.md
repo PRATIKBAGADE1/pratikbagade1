@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://pratikbagade1.github.io/Portfolio/#projects)
 
-- 💬 Ask me about **Java and React**
+- 💬 Ask me about **Java, React And AWS**
 
 - 📫 How to reach me **pratikbagade13@gmail.com**
 
