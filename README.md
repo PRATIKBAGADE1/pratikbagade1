@@ -30,6 +30,49 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=pratikbagade1&icon=0&color=0)
+
+
+
+<!-- Your Profile Header Section -->
+
+# Hi there, I'm Pratik Bagade! 👋
+Welcome to my GitHub profile. Here's a quick look at my stats and projects.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikbagade1&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)
+  
+  ![Pratik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratikbagade1&theme=darcula&hide_border=false)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbagade1&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
+
+---
+
+<!-- You can add additional sections like Skills, Projects, or About Me -->
+
+## 💻 Tech Stack
+<!-- Icons from https://simpleicons.org/ -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+<!-- You can add as many badges as you'd like here, related to your skills and tools you use -->
+
+---
+
+## 📫 Connect with me:
+- **LinkedIn:** [Pratik Bagade](https://www.linkedin.com/in/pratikbagade)
+- **Twitter:** [@pratikbagade](https://twitter.com/pratikbagade)
+
+
   
 
 
